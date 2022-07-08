@@ -1,8 +1,4 @@
-# 
-
-
-<h2 align="center">PRUEBA DE BIO CREO xdd </h2>
-<h2 align="center">HOLA? </h2>
+ :computer: <h2 align="center">HOLAA</h2>
 <p style='text-align: justify;'> 
 Estudiante de Ing. Informática en la UPV</p>
 
