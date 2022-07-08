@@ -1,3 +1,3 @@
-<p align="center">HOLAA 👋👋</p>
+<p align="center" fotn-size= 32px >HOLAA 👋👋</p>
 
  
