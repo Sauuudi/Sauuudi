@@ -1,7 +1,2 @@
-<p align="center" fotn-size= 32px >HOLAA 👋👋</p>
+<h3 align="center"  >HOLAA 👋👋</h3>
 
- <style>
-p {
-  font-size: 32px;
-}
-</style>
