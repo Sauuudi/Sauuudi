@@ -1,3 +1,3 @@
-<h2 align="center">HOLAA 👋👋</h2>
+<p align="center">HOLAA 👋👋</p>
 
  
